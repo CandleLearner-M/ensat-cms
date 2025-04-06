@@ -99,6 +99,7 @@ node_modules
 
 ############################
 # Package managers
+package-lock.json
 ############################
 
 .yarn/*
@@ -130,4 +131,3 @@ build
 .strapi-updater.json
 .strapi-cloud.json
 
-package-lock.json
