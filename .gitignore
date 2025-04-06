@@ -96,10 +96,10 @@ logs
 results
 node_modules
 .node_history
+package-lock.json
 
 ############################
 # Package managers
-package-lock.json
 ############################
 
 .yarn/*
